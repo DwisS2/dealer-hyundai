@@ -16,7 +16,7 @@
          <div class="details-phone details-weight">
            <div class="feature-box-3 grey-border">
            <div class="icon">
-              <a href="https://wa.me/6285173070605">
+              <a href="https://api.whatsapp.com/send?phone=+6285173070605&text=hallo">
                 <i class="fa fa-phone"></i>
               </a>
             </div>
