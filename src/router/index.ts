@@ -14,12 +14,12 @@ Vue.use(VueRouter)
 
 const routes: Array<RouteConfig> = [
   {
-    path: '/',
+    path: '/index',
     name: 'Index',
     component: Index
   },
   {
-    path: '/contact',
+    path: '/',
     name: 'Contact',
     component: Contact
   },
