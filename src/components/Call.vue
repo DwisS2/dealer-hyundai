@@ -1,5 +1,5 @@
 <template lang="">
-    <a href="https://wa.me/6285173070605">
+    <a href="https://api.whatsapp.com/send?phone=089695526590&text=hallo">
         <div class="car-top show">
           <span>
               <img src="/frontend/images/whatsapp.png" alt="" />
