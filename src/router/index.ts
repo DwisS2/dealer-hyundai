@@ -14,6 +14,11 @@ Vue.use(VueRouter)
 
 const routes: Array<RouteConfig> = [
   {
+    path: '/index',
+    name: 'Index',
+    component: Index
+  },
+  {
     path: '/',
     name: 'Index',
     component: Index
