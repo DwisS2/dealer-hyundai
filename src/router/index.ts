@@ -19,7 +19,7 @@ const routes: Array<RouteConfig> = [
     component: Index
   },
   {
-    path: '/',
+    path: '/contact',
     name: 'Contact',
     component: Contact
   },
