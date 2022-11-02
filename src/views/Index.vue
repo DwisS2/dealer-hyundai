@@ -2,7 +2,7 @@
         <body>
             <div id="loading">
               <div id="loading-center">
-                <img src="frontend/images/loader.gif" alt="" />
+                <img src="/frontend/images/loader.gif" alt="" />
               </div>
             </div>
             <Header></Header>
@@ -38,7 +38,7 @@
                       data-easein="default"
                       data-easeout="default"
                       data-masterspeed="default"
-                      data-thumb="frontend/revolution/assets/slider/new-palisade.jpg"
+                      data-thumb="/frontend/revolution/assets/slider/new-palisade.jpg"
                       data-rotate="0"
                       data-saveperformance="off"
                       data-title="Slide"
@@ -56,7 +56,7 @@
                     >
                       <!-- MAIN IMAGE -->
                       <img
-                        src="frontend/revolution/assets/slider/new-palisade.jpg"
+                        src="/frontend/revolution/assets/slider/new-palisade.jpg"
                         alt=""
                         data-bgposition="center center"
                         data-bgfit="cover"
@@ -186,7 +186,7 @@
                       data-easein="default"
                       data-easeout="default"
                       data-masterspeed="default"
-                      data-thumb="frontend/revolution/assets/slider/ioniq-5-banner.jpg"
+                      data-thumb="/frontend/revolution/assets/slider/ioniq-5-banner.jpg"
                       data-rotate="0"
                       data-saveperformance="off"
                       data-title="Slide"
@@ -204,7 +204,7 @@
                     >
                       <!-- MAIN IMAGE -->
                       <img
-                        src="frontend/revolution/assets/slider/ioniq-5-banner.jpg"
+                        src="/frontend/revolution/assets/slider/ioniq-5-banner.jpg"
                         alt=""
                         data-bgposition="center center"
                         data-bgfit="cover"
@@ -335,10 +335,10 @@
               </section>
             <section class="welcome-block objects-car page-section-ptb white-bg">
               <div class="objects-left left">
-                <img class="img-fluid objects-1" src="frontend/images/objects/01.jpg" alt="" />
+                <img class="img-fluid objects-1" src="/frontend/images/objects/01.jpg" alt="" />
               </div>
               <div class="objects-right right">
-                <img class="img-fluid objects-2" src="frontend/images/objects/02.jpg" alt="" />
+                <img class="img-fluid objects-2" src="/frontend/images/objects/02.jpg" alt="" />
               </div>
               <div class="container">
                 <div class="row">
@@ -395,7 +395,7 @@
                <div class="row">
                 <div class="col-md-12">
                   <div class="halp-call text-center">
-                    <img class="img-fluid" src="frontend/images/team/falah.jfif" alt="" />
+                    <img class="img-fluid" src="/frontend/images/team/falah.jfif" alt="" />
                     <span>PUNYA PERTANYAAN ?</span>
                     <h2 class="text-red">0851 7307 0605</h2>
                   </div>
@@ -453,7 +453,7 @@
                   <div class="video-info text-center">
                     <img
                       class="img-fluid center-block"
-                      src="frontend/images/car/0.jpg"
+                      src="/frontend/images/car/0.jpg"
                       alt=""
                     />
                     <a
@@ -493,7 +493,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/1.jpg"
+                            src="/frontend/images/testimonial/1.jpg"
                             alt=""
                           />
                         </div>
@@ -504,7 +504,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/2.jpg"
+                            src="/frontend/images/testimonial/2.jpg"
                             alt=""
                           />
                         </div>
@@ -515,7 +515,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/3.jpg"
+                            src="/frontend/images/testimonial/3.jpg"
                             alt=""
                           />
                         </div>
@@ -526,7 +526,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/4.jpg"
+                            src="/frontend/images/testimonial/4.jpg"
                             alt=""
                           />
                       </div>
@@ -537,7 +537,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/5.jpg"
+                            src="/frontend/images/testimonial/5.jpg"
                             alt=""
                           />
                       </div>
@@ -548,7 +548,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/6.jpg"
+                            src="/frontend/images/testimonial/6.jpg"
                             alt=""
                           />
                       </div>
@@ -559,7 +559,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/7.jpg"
+                            src="/frontend/images/testimonial/7.jpg"
                             alt=""
                           />
                       </div>
@@ -570,7 +570,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/8.jpg"
+                            src="/frontend/images/testimonial/8.jpg"
                             alt=""
                           />
                       </div>
@@ -581,7 +581,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/9.jpg"
+                            src="/frontend/images/testimonial/9.jpg"
                             alt=""
                           />
                       </div>
@@ -592,7 +592,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/10.jpg"
+                            src="/frontend/images/testimonial/10.jpg"
                             alt=""
                           />
                       </div>
@@ -603,7 +603,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/11.jpg"
+                            src="/frontend/images/testimonial/11.jpg"
                             alt=""
                           />
                       </div>
@@ -614,7 +614,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/12.jpg"
+                            src="/frontend/images/testimonial/12.jpg"
                             alt=""
                           />
                       </div>
@@ -625,7 +625,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="frontend/images/testimonial/13.jpg"
+                            src="/frontend/images/testimonial/13.jpg"
                             alt=""
                           />
                       </div>

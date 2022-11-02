@@ -40,7 +40,7 @@
             </div>
           </div>
           <div class="row">
-            <div class="col-lg-3 col-md-6">
+            <div class="col-lg-9 col-md-6">
               <div class="about-content">
                 <img
                   class="img-fluid"
@@ -53,91 +53,16 @@
                 <ul>
                   <li>
                     <i class="fa fa-map-marker"></i
-                    ><span>Hyundai City Store Supermall Karawaci Lt. Dasar, Jl. Boulvard Diponegoro No. 105, Karawaci - Tangerang</span>
+                    ><span>Jl. Raya Pasar Minggu No.7, Pancoran, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12780</span>
                   </li>
                   <li>
                     <i class="fa fa-phone"></i><span>0851 7307 0605</span>
                   </li>
                   <li>
                     <i class="fa fa-envelope-o"></i
-                    ><span>falah@gmail.com</span>
+                    ><span>HyundaiFalah@gmail.com</span>
                   </li>
                 </ul>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-              <div class="usefull-link">
-                <h6 class="text-white">Useful Links</h6>
-                <ul>
-                  <li>
-                    <a href="#"
-                      ><i class="fa fa-angle-double-right"></i> Change Oil and
-                      Filter</a
-                    >
-                  </li>
-                  <li>
-                    <a href="#"
-                      ><i class="fa fa-angle-double-right"></i> Brake Pads
-                      Replacement</a
-                    >
-                  </li>
-                  <li>
-                    <a href="#"
-                      ><i class="fa fa-angle-double-right"></i> Timing Belt
-                      Replacement</a
-                    >
-                  </li>
-                  <li>
-                    <a href="#"
-                      ><i class="fa fa-angle-double-right"></i> Pre-purchase Car
-                      Inspection</a
-                    >
-                  </li>
-                  <li>
-                    <a href="#"
-                      ><i class="fa fa-angle-double-right"></i> Starter
-                      Replacement</a
-                    >
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-lg-3 col-md-6">
-              <div class="recent-post-block">
-                <h6 class="text-white">recent posts</h6>
-                <div class="recent-post">
-                  <div class="recent-post-image">
-                    <img class="img-fluid" src="/frontend/images/car/01.jpg" alt="" />
-                  </div>
-                  <div class="recent-post-info">
-                    <a href="#">Time to change your </a>
-                    <span class="post-date"
-                      ><i class="fa fa-calendar"></i>September 10, 2021</span
-                    >
-                  </div>
-                </div>
-                <div class="recent-post">
-                  <div class="recent-post-image">
-                    <img class="img-fluid" src="/frontend/images/car/02.jpg" alt="" />
-                  </div>
-                  <div class="recent-post-info">
-                    <a href="#">The best time to </a>
-                    <span class="post-date"
-                      ><i class="fa fa-calendar"></i>September 10, 2021</span
-                    >
-                  </div>
-                </div>
-                <div class="recent-post">
-                  <div class="recent-post-image">
-                    <img class="img-fluid" src="/frontend/images/car/03.jpg" alt="" />
-                  </div>
-                  <div class="recent-post-info">
-                    <a href="#">Replacing a timing </a>
-                    <span class="post-date"
-                      ><i class="fa fa-calendar"></i>September 10, 2021</span
-                    >
-                  </div>
-                </div>
               </div>
             </div>
             <div class="col-lg-3 col-md-6">
@@ -153,7 +78,7 @@
               <div class="col-lg-6 col-md-12">
                 <div class="text-lg-start text-center">
                   <p>
-                    ©Copyright 2022 Car Dealer Hyundai
+                    ©Copyright 2022 HyundaiJakarta
                   </p>
                 </div>
               </div>

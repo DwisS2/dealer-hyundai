@@ -475,7 +475,7 @@ $(document).ready(function () {
 		var Tot = (a / b);
 		var ans2 = Tot.toFixed(2);
 
-		$( '#txtPayment' ).html( currency_symbol + ans2 + '<sup>&#47;mo</sup>' );
+		$( '#txtPayment' ).html( "Rp." + ans2 + '<sup>&#47;bulan</sup>' );
 	});
 
 });

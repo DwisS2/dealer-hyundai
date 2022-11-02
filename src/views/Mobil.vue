@@ -36,7 +36,7 @@
                   <div class="col-lg-4 col-sm-6">
                     <div class="car-item gray-bg text-center">
                      <div class="car-image">
-                       <img class="img-fluid" src="frontend/images/stargazer3.jpg"/>
+                       <img class="img-fluid" src="/frontend/images/stargazer3.jpg"/>
                        <div class="car-overlay-banner">
                         <ul>
                           <li><a href="/mobil/stargazer"><i class="fa fa-shopping-cart"></i></a></li>
@@ -56,16 +56,16 @@
                   <div class="col-lg-4 col-sm-6">
                     <div class="car-item gray-bg text-center">
                      <div class="car-image">
-                       <img class="img-fluid" src="frontend/images/creta2.jpg"/>
+                       <img class="img-fluid" src="/frontend/images/creta2.jpg"/>
                        <div class="car-overlay-banner">
                         <ul>
-                          <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                          <li><a href="/mobil/creta"><i class="fa fa-shopping-cart"></i></a></li>
                          </ul>
                        </div>
                      </div>
                   
                      <div class="car-content">
-                       <a href="#">Hyundai Creta</a>
+                       <a href="/mobil/creta">Hyundai Creta</a>
                        <div class="separator"></div>
                        <div class="price">
                          <span class="new-price">Rp.279.000.000</span>
@@ -76,16 +76,16 @@
                   <div class="col-lg-4 col-sm-6">
                     <div class="car-item gray-bg text-center">
                      <div class="car-image">
-                       <img class="img-fluid" src="frontend/images/ionic.jpg"/>
+                       <img class="img-fluid" src="/frontend/images/ioniq.jpg"/>
                        <div class="car-overlay-banner">
                         <ul>
-                          <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                          <li><a href="/mobil/ioniq"><i class="fa fa-shopping-cart"></i></a></li>
                          </ul>
                        </div>
                      </div>
                   
                      <div class="car-content">
-                       <a href="#">Hyundai Ionic 5</a>
+                       <a href="/mobil/ioniq">Hyundai ioniq 5</a>
                        <div class="separator"></div>
                        <div class="price">
                          <span class="new-price">Rp.748.000.000</span>
@@ -96,36 +96,16 @@
                   <div class="col-lg-4 col-sm-6">
                     <div class="car-item gray-bg text-center">
                      <div class="car-image">
-                       <img class="img-fluid" src="frontend/images/kona.jpg"/>
+                       <img class="img-fluid" src="/frontend/images/palisade.jpg"/>
                        <div class="car-overlay-banner">
                         <ul>
-                          <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                          <li><a href="/mobil/palisade"><i class="fa fa-shopping-cart"></i></a></li>
                          </ul>
                        </div>
                      </div>
                   
                      <div class="car-content">
-                       <a href="#">Hyundai Kona</a>
-                       <div class="separator"></div>
-                       <div class="price">
-                         <span class="new-price">Rp.742.000.000</span>
-                       </div>
-                     </div>
-                   </div>
-                   </div>
-                  <div class="col-lg-4 col-sm-6">
-                    <div class="car-item gray-bg text-center">
-                     <div class="car-image">
-                       <img class="img-fluid" src="frontend/images/palisade.jpg"/>
-                       <div class="car-overlay-banner">
-                        <ul>
-                          <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
-                         </ul>
-                       </div>
-                     </div>
-                  
-                     <div class="car-content">
-                       <a href="#">Hyundai Palisade</a>
+                       <a href="/mobil/palisade">Hyundai Palisade</a>
                        <div class="separator"></div>
                        <div class="price">
                          <span class="new-price">Rp.842.000.000</span>
@@ -136,16 +116,16 @@
                   <div class="col-lg-4 col-sm-6">
                     <div class="car-item gray-bg text-center">
                      <div class="car-image">
-                       <img class="img-fluid" src="frontend/images/santa.jpg"/>
+                       <img class="img-fluid" src="/frontend/images/santa.jpg"/>
                        <div class="car-overlay-banner">
                         <ul>
-                          <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                          <li><a href="/mobil/santa"><i class="fa fa-shopping-cart"></i></a></li>
                          </ul>
                        </div>
                      </div>
                   
                      <div class="car-content">
-                       <a href="#">Hyundai SANTA FE</a>
+                       <a href="/mobil/santa">Hyundai SANTA FE</a>
                        <div class="separator"></div>
                        <div class="price">
                          <span class="new-price">Rp.569.000.000</span>
@@ -156,16 +136,16 @@
                   <div class="col-lg-4 col-sm-6">
                     <div class="car-item gray-bg text-center">
                      <div class="car-image">
-                       <img class="img-fluid" src="frontend/images/staria.jpg"/>
+                       <img class="img-fluid" src="/frontend/images/staria.jpg"/>
                        <div class="car-overlay-banner">
                         <ul>
-                          <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                          <li><a href="/mobil/staria"><i class="fa fa-shopping-cart"></i></a></li>
                          </ul>
                        </div>
                      </div>
                   
                      <div class="car-content">
-                       <a href="#">Hyundai Staria</a>
+                       <a href="/mobil/staria">Hyundai Staria</a>
                        <div class="separator"></div>
                        <div class="price">
                          <span class="new-price">Rp.896.000.000</span>

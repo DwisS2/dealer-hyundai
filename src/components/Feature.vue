@@ -40,7 +40,7 @@
                   <img class="img-fluid" src="/frontend/images/creta2.jpg" alt="" />
                   <div class="car-overlay-banner">
                     <ul>
-                      <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                      <li><a href="/mobil/creta"><i class="fa fa-shopping-cart"></i></a></li>
                     </ul>
                   </div>
                 </div>
@@ -50,7 +50,7 @@
                   </ul>
                 </div>
                 <div class="car-content">
-                  <a href="#">Hyundai CRETA</a>
+                  <a href="/mobil/creta">Hyundai CRETA</a>
                   <div class="separator"></div>
                   <div class="price">
                     <span class="new-price">Rp.279.000.000</span>
@@ -61,47 +61,23 @@
             <div class="item">
               <div class="car-item text-center">
                 <div class="car-image">
-                  <img class="img-fluid" src="/frontend/images/ionic.jpg" alt="" />
+                  <img class="img-fluid" src="/frontend/images/ioniq.jpg" alt="" />
                   <div class="car-overlay-banner">
                     <ul>
-                      <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                      <li><a href="/mobil/ioniq"><i class="fa fa-shopping-cart"></i></a></li>
                     </ul>
                   </div>
                 </div>
                 <div class="car-list">
                   <ul class="list-inline">
-                    <li>Ionic 5</li>
+                    <li>ioniq 5</li>
                   </ul>
                 </div>
                 <div class="car-content">
-                  <a href="#">Hyundai Ionic 5</a>
+                  <a href="/mobil/ioniq">Hyundai ioniq 5</a>
                   <div class="separator"></div>
                   <div class="price">
                     <span class="new-price">Rp.748.000.000</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <div class="car-item text-center">
-                <div class="car-image">
-                  <img class="img-fluid" src="/frontend/images/kona.jpg" alt="" />
-                  <div class="car-overlay-banner">
-                    <ul>
-                      <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
-                    </ul>
-                  </div>
-                </div>
-                <div class="car-list">
-                  <ul class="list-inline">
-                    <li>Hyundai KONA</li>
-                  </ul>
-                </div>
-                <div class="car-content">
-                  <a href="#">Hyundai KONA</a>
-                  <div class="separator"></div>
-                  <div class="price">
-                    <span class="new-price">Rp.742.000.000</span>
                   </div>
                 </div>
               </div>

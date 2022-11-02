@@ -13,13 +13,13 @@
           <div class="container">
              <div class="row text-center intro-title">
                <div class="col-md-6 text-md-start d-inline-block">
-                 <h1 class="text-white">Hyundai Stargazer</h1>
+                 <h1 class="text-white">Hyundai Creta</h1>
                </div>
                <div class="col-md-6 text-md-end float-end">
                  <ul class="page-breadcrumb">
                     <li><a href="/index"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
                     <li><a href="/mobil">Mobil</a> <i class="fa fa-angle-double-right"></i></li>
-                    <li><span>Hyundai Stargazer</span> </li>
+                    <li><span>Hyundai Creta</span> </li>
                  </ul>
                </div>
              </div>
@@ -30,8 +30,8 @@
           <div class="container">
             <div class="row">
              <div class="col-md-9">
-               <h3>Hyundai Stargazer</h3>
-               <p>Sudah Bisa Dipesan, Hyundai Ungkap Seluruh Tampilan Hyundai STARGAZER yang Dinamis dan Ekspresif</p>
+               <h3>Hyundai Creta</h3>
+               <p>Produk Perdana Pabrik Hyundai di Indonesia : Hyundai CRETA Dibuat di Indonesia</p>
               </div>
             </div>
            
@@ -39,42 +39,34 @@
              <div class="col-md-8">
                 <div class="slider-slick">
                   <div class="slider slider-for detail-big-car-gallery">
-                        <img class="img-fluid" src="/frontend/images/stargazer.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer2.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer3.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer4.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer5.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer6.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer7.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer8.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer9.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer10.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer11.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer12.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer13.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer14.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer15.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer16.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer17.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta2.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta3.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta4.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta5.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta6.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta7.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta8.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta9.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta10.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta11.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta12.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta13.jpg" alt="">
                     </div>
                     <div class="slider slider-nav">
-                        <img class="img-fluid" src="/frontend/images/stargazer.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer2.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer3.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer4.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer5.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer6.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer7.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer8.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer9.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer10.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer11.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer12.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer13.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer14.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer15.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer16.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/stargazer17.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta2.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta3.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta4.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta5.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta6.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta7.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta8.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta9.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta10.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta11.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta12.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/creta13.jpg" alt="">
                     </div>
                  </div>
         
@@ -89,47 +81,47 @@
                   </ul>
                   <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade show active" id="general-information" role="tabpanel" aria-labelledby="general-information-tab">
-                      <h6>Hyundai Stargazer</h6>
+                      <h6>Hyundai Creta</h6>
                         <ul>
                           <li>
-                            Hyundai STARGAZER adalah MPV keluarga Hyundai yang akan segera hadir serta dirancang khusus untuk keluarga Indonesia.
+                            Hyundai CRETA memiliki tampilan stylish yang menarik perhatian dan cocok untuk gaya hidup urban masyarakat Indonesia. Sisi depan mobil ini menonjolkan keunikan Hyundai CRETA dengan adanya lampu Parametric Jewel Hidden-Type DRL.
                           </li>
                           <li>
-                            Hyundai STARGAZER mengusung tipologi Sleek-One-Box dengan desain one-curve untuk menghadirkan kesan ruang yang lebih lapang.
+                            Hyundai CRETA telah dilengkapi dengan berbagai fitur keamanan terdepan yang akan bekerja secara signifikan dalam mendukung pelanggan untuk mengemudi dengan lebih aman, seperti: Hill-Start Assist Control (HAC)** yang akan membantu mencegah mobil bergerak mundur tanpa disengaja saat posisi mobil berhenti di kondisi tanjakan; Emergency Stop Signal (ESS)**; fitur yang secara otomatis menyalakan lampu hazard saat melakukan pengereman mendadak; dan Vehicle Stability Management (VSM)**, sebuah sistem yang membantu kendaraan untuk tetap dalam kondisi stabil pada saat meningkatkan kecepatan atau melakukan pengereman secara mendadak pada kondisi jalanan yang basah, licin, dan tidak mulus.
                           </li>
                           <li>
-                            Dilengkapi Bluelink, Hyundai STARGAZER akan menjadi MPV keluarga yang ditawarkan Hyundai, lengkap dengan fitur unggulan dan kenyamanan maksimal.
+                            Hyundai CRETA juga dilengkapi dengan Hyundai SmartSense, sistem bantuan pengemudi mutakhir dari Hyundai yang diciptakan untuk memberikan keamanan dan kenyamanan bagi pelanggan dalam berkendara. Sistem di Hyundai SmartSense akan terus memantau area sekitar dan membantu memberikan keamanan lebih dari potensi bahaya pada saat mengemudi.
                           </li>
                         </ul>
                       
                     </div>
                     <div class="tab-pane fade" id="features-options" role="tabpanel" aria-labelledby="features-options-tab">
-                      <h6>HYUNDAI STARGAZER GASOLINE 1.5 MP-i</h6>
+                      <h6>HYUNDAI CRETA GASOLINE 1.5 MP-i</h6>
                       <table class="table table-bordered">
                         <tbody>
                           <tr>
                             <th scope="row">TIPE ACTIVE MT</th>
-                            <td>Rp.243.300.000</td>
+                            <td>Rp.288.000.000</td>
                           </tr>
                           <tr>
                             <th scope="row">TIPE TREND MT</th>
-                            <td>Rp.255.900.000</td>
+                            <td>Rp.309.500.000</td>
                           </tr>
                           <tr>
                             <th scope="row">TIPE TREND IVT</th>
-                            <td>Rp.263.300.000</td>
+                            <td>Rp.330.000.000</td>
                           </tr>
                           <tr>
                             <th scope="row">TIPE STYLE IVT</th>
-                            <td>Rp.275.900.000</td>
+                            <td>Rp.372.000.000</td>
                           </tr>
                           <tr>
                             <th scope="row">TIPE PRIME IVT 1T</th>
-                            <td>Rp.296.300.000</td>
+                            <td>Rp.404.000.000</td>
                           </tr>
                           <tr>
                             <th scope="row">TIPE PRIME IVT 2T</th>
-                            <td>Rp.307.100.000</td>
+                            <td>Rp.407.000.000</td>
                           </tr>
                         </tbody>
                       </table>
@@ -141,7 +133,7 @@
             <Feature></Feature>
             </div>
            </div>
-           <CarSidebar></CarSidebar>
+          <CarSidebar></CarSidebar>
                </div>
              </div>
         </section>
@@ -158,7 +150,7 @@ import Call from "../components/Call.vue";
 import CarSidebar from "../components/CarSidebar.vue";
 export default {
     components: { Header, Footer, Feature, Call, CarSidebar },
-    name: "Stargazer"
+    name: "Palisade"
 }
 </script>
 <style lang="">
