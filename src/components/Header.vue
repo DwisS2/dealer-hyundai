@@ -61,8 +61,8 @@
                     <!-- menu links -->
                     <ul class="menu-links">
                       <!-- active class -->
-                      <li v-if="$route.path == '/index/'" class="active"><a href="/index"> Home <i class="fa-indicator"></i></a>
-                      <li v-else><a href="/index/"> Home <i class="fa-indicator"></i></a>
+                      <li v-if="$route.path == '/'" class="active"><a href="/"> Home <i class="fa-indicator"></i></a>
+                      <li v-else><a href="/"> Home <i class="fa-indicator"></i></a>
                      </li>
                       <li v-if="$route.path == '/mobil/'" class="active">
                         <a href="/mobil/">
