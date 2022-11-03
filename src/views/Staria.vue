@@ -90,11 +90,11 @@
                       <table class="table table-bordered">
                         <tbody>
                           <tr>
-                            <th scope="row">TIPE 9 SEATER</th>
+                            <th scope="row">TIPE 9 SEATER A/T</th>
                             <td>Rp.896.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE 7 SEATER</th>
+                            <th scope="row">TIPE 7 SEATER A/T</th>
                             <td>Rp.1.028.000.000</td>
                           </tr>
                         </tbody>

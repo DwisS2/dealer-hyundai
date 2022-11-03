@@ -116,12 +116,8 @@
                             <td>Rp.372.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE PRIME IVT 1T</th>
+                            <th scope="row">TIPE PRIME IVT</th>
                             <td>Rp.404.000.000</td>
-                          </tr>
-                          <tr>
-                            <th scope="row">TIPE PRIME IVT 2T</th>
-                            <td>Rp.407.000.000</td>
                           </tr>
                         </tbody>
                       </table>

@@ -97,7 +97,7 @@
                   </ul>
                   <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade show active" id="general-information" role="tabpanel" aria-labelledby="general-information-tab">
-                      <h6>Hyundai Ioniq</h6>
+                      <h6>Hyundai Ioniq 5</h6>
                         <ul>
                           <li>
                             Melalui ajang pameran IIMS 2022, HMID memperkenalkan Hyundai IONIQ 5, mobil listrik pertama yang diproduksi secara massal di Indonesia.
@@ -114,7 +114,8 @@
                         </ul>
                     </div>
                     <div class="tab-pane fade" id="features-options" role="tabpanel" aria-labelledby="features-options-tab">
-                      <h6>HYUNDAI Ioniq GASOLINE 1.5 MP-i</h6>
+                      <h5>HYUNDAI Ioniq 5 Electric Vehicle</h5>
+                      <h6>Jakarta</h6>
                       <table class="table table-bordered">
                         <tbody>
                           <tr>
@@ -132,6 +133,48 @@
                           <tr>
                             <th scope="row">TIPE SIGNATURE LONG RANGE</th>
                             <td>Rp.859.000.000</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <h6>Bodetabek</h6>
+                      <table class="table table-bordered">
+                        <tbody>
+                          <tr>
+                            <th scope="row">TIPE PRIME STANDARD RANGE</th>
+                            <td>Rp.753.500.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE PRIME LONG RANGE</th>
+                            <td>Rp.795.000.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE SIGNATURE STANDARD RANGE</th>
+                            <td>Rp.815.000.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE SIGNATURE LONG RANGE</th>
+                            <td>Rp.865.000.000</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <h6>Tangerang / Banten (A)</h6>
+                      <table class="table table-bordered">
+                        <tbody>
+                          <tr>
+                            <th scope="row">TIPE PRIME STANDARD RANGE</th>
+                            <td>Rp.754.000.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE PRIME LONG RANGE</th>
+                            <td>Rp.795.500.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE SIGNATURE STANDARD RANGE</th>
+                            <td>Rp.815.500.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE SIGNATURE LONG RANGE</th>
+                            <td>Rp.866.000.000</td>
                           </tr>
                         </tbody>
                       </table>

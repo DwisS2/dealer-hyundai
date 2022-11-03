@@ -493,7 +493,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="/frontend/images/testimonial/1.jpg"
+                            src="/frontend/images/testimonial/testimoni1.jpg"
                             alt=""
                           />
                         </div>
@@ -504,7 +504,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="/frontend/images/testimonial/2.jpg"
+                            src="/frontend/images/testimonial/testimoni2.jpg"
                             alt=""
                           />
                         </div>
@@ -515,7 +515,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="/frontend/images/testimonial/3.jpg"
+                            src="/frontend/images/testimonial/testimoni3.jpg"
                             alt=""
                           />
                         </div>
@@ -526,7 +526,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="/frontend/images/testimonial/4.jpg"
+                            src="/frontend/images/testimonial/testimoni4.jpg"
                             alt=""
                           />
                       </div>
@@ -537,7 +537,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="/frontend/images/testimonial/5.jpg"
+                            src="/frontend/images/testimonial/testimoni5.jpg"
                             alt=""
                           />
                       </div>
@@ -548,7 +548,7 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="/frontend/images/testimonial/6.jpg"
+                            src="/frontend/images/testimonial/testimoni6.jpg"
                             alt=""
                           />
                       </div>
@@ -559,77 +559,12 @@
                         <div class="testimonial-image">
                           <img
                             class="img-fluid"
-                            src="/frontend/images/testimonial/7.jpg"
+                            src="/frontend/images/testimonial/testimoni7.jpg"
                             alt=""
                           />
                       </div>
                     </div>
                   </div>
-                    <div class="item gbrtestimoni">
-                      <div class="testimonial-block text-center">
-                        <div class="testimonial-image">
-                          <img
-                            class="img-fluid"
-                            src="/frontend/images/testimonial/8.jpg"
-                            alt=""
-                          />
-                      </div>
-                    </div>
-                  </div>
-                    <div class="item gbrtestimoni">
-                      <div class="testimonial-block text-center">
-                        <div class="testimonial-image">
-                          <img
-                            class="img-fluid"
-                            src="/frontend/images/testimonial/9.jpg"
-                            alt=""
-                          />
-                      </div>
-                    </div>
-                  </div>
-                    <div class="item gbrtestimoni">
-                      <div class="testimonial-block text-center">
-                        <div class="testimonial-image">
-                          <img
-                            class="img-fluid"
-                            src="/frontend/images/testimonial/10.jpg"
-                            alt=""
-                          />
-                      </div>
-                    </div>
-                  </div>
-                    <div class="item gbrtestimoni">
-                      <div class="testimonial-block text-center">
-                        <div class="testimonial-image">
-                          <img
-                            class="img-fluid"
-                            src="/frontend/images/testimonial/11.jpg"
-                            alt=""
-                          />
-                      </div>
-                    </div>
-                  </div>
-                    <div class="item gbrtestimoni">
-                      <div class="testimonial-block text-center">
-                        <div class="testimonial-image">
-                          <img
-                            class="img-fluid"
-                            src="/frontend/images/testimonial/12.jpg"
-                            alt=""
-                          />
-                      </div>
-                    </div>
-                  </div>
-                    <div class="item gbrtestimoni">
-                      <div class="testimonial-block text-center">
-                        <div class="testimonial-image">
-                          <img
-                            class="img-fluid"
-                            src="/frontend/images/testimonial/13.jpg"
-                            alt=""
-                          />
-                      </div>
-                    </div>
                     </div>
                   </div>
                 </div>

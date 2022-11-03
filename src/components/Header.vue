@@ -64,7 +64,7 @@
                       <li v-if="$route.path == '/'" class="active"><a href="/"> Home <i class="fa-indicator"></i></a>
                       <li v-else><a href="/"> Home <i class="fa-indicator"></i></a>
                      </li>
-                      <li v-if="$route.path == '/mobil/'" class="active">
+                      <li v-if="$route.path == '/mobil/' || $route.path == '/mobil/stargazer' || $route.path == '/mobil/creta' || $route.path == '/mobil/ioniq' || $route.path == '/mobil/palisade' || $route.path == '/mobil/santa' || $route.path == '/mobil/staria'" class="active">
                         <a href="/mobil/">
                           Mobil <i class="fa-indicator"></i
                         ></a>

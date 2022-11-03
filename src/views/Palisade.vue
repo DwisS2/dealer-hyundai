@@ -13,13 +13,13 @@
           <div class="container">
              <div class="row text-center intro-title">
                <div class="col-md-6 text-md-start d-inline-block">
-                 <h1 class="text-white">Hyundai Creta</h1>
+                 <h1 class="text-white">Hyundai Palisade</h1>
                </div>
                <div class="col-md-6 text-md-end float-end">
                  <ul class="page-breadcrumb">
                     <li><a href="/index"><i class="fa fa-home"></i> Home</a> <i class="fa fa-angle-double-right"></i></li>
                     <li><a href="/mobil">Mobil</a> <i class="fa fa-angle-double-right"></i></li>
-                    <li><span>Hyundai Creta</span> </li>
+                    <li><span>Hyundai Palisade</span> </li>
                  </ul>
                </div>
              </div>
@@ -30,8 +30,8 @@
           <div class="container">
             <div class="row">
              <div class="col-md-9">
-               <h3>Hyundai Creta</h3>
-               <p>Produk Perdana Pabrik Hyundai di Indonesia : Hyundai CRETA Dibuat di Indonesia</p>
+               <h3>Hyundai palisade</h3>
+               <p>Hyundai Hadirkan New Hyundai PALISADE dengan Tampilan dan Kenyamanan yang Lebih Mewah</p>
               </div>
             </div>
            
@@ -39,34 +39,36 @@
              <div class="col-md-8">
                 <div class="slider-slick">
                   <div class="slider slider-for detail-big-car-gallery">
-                        <img class="img-fluid" src="/frontend/images/creta.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta2.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta3.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta4.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta5.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta6.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta7.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta8.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta9.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta10.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta11.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta12.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta13.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade2.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade3.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade4.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade5.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade6.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade7.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade8.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade9.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade10.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade11.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade12.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade13.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade14.jpg" alt="">
                     </div>
                     <div class="slider slider-nav">
-                        <img class="img-fluid" src="/frontend/images/creta.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta2.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta3.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta4.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta5.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta6.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta7.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta8.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta9.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta10.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta11.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta12.jpg" alt="">
-                        <img class="img-fluid" src="/frontend/images/creta13.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade2.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade3.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade4.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade5.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade6.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade7.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade8.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade9.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade10.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade11.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade12.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade13.jpg" alt="">
+                        <img class="img-fluid" src="/frontend/images/palisade14.jpg" alt="">
                     </div>
                  </div>
         
@@ -81,47 +83,36 @@
                   </ul>
                   <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade show active" id="general-information" role="tabpanel" aria-labelledby="general-information-tab">
-                      <h6>Hyundai Creta</h6>
+                      <h6>Hyundai palisade</h6>
                         <ul>
                           <li>
-                            Hyundai CRETA memiliki tampilan stylish yang menarik perhatian dan cocok untuk gaya hidup urban masyarakat Indonesia. Sisi depan mobil ini menonjolkan keunikan Hyundai CRETA dengan adanya lampu Parametric Jewel Hidden-Type DRL.
+                            New Hyundai PALISADE merupakan SUV flagship yang diperbarui dari sisi kemewahan tampilan eksterior dan interior serta teknologi yang semakin mutakhir. 
                           </li>
                           <li>
-                            Hyundai CRETA telah dilengkapi dengan berbagai fitur keamanan terdepan yang akan bekerja secara signifikan dalam mendukung pelanggan untuk mengemudi dengan lebih aman, seperti: Hill-Start Assist Control (HAC)** yang akan membantu mencegah mobil bergerak mundur tanpa disengaja saat posisi mobil berhenti di kondisi tanjakan; Emergency Stop Signal (ESS)**; fitur yang secara otomatis menyalakan lampu hazard saat melakukan pengereman mendadak; dan Vehicle Stability Management (VSM)**, sebuah sistem yang membantu kendaraan untuk tetap dalam kondisi stabil pada saat meningkatkan kecepatan atau melakukan pengereman secara mendadak pada kondisi jalanan yang basah, licin, dan tidak mulus.
+                            Selain tampilan dan teknologi yang semakin lengkap, New Hyundai PALISADE kini juga disematkan dengan teknologi konektivitas Hyundai Bluelink untuk meningkatkan kenyamanan berkendara. 
                           </li>
                           <li>
-                            Hyundai CRETA juga dilengkapi dengan Hyundai SmartSense, sistem bantuan pengemudi mutakhir dari Hyundai yang diciptakan untuk memberikan keamanan dan kenyamanan bagi pelanggan dalam berkendara. Sistem di Hyundai SmartSense akan terus memantau area sekitar dan membantu memberikan keamanan lebih dari potensi bahaya pada saat mengemudi.
+                            New Hyundai PALISADE hadir dengan berbagai pembaruan di bagian eksterior yang membuat tampilannya semakin terlihat berani, gagah, dan premium. Dari sisi bumper, Hyundai memperbarui desain mobil ini sehingga terlihat lebih menyatu dengan grille nya dan menerapkan fitur Parametric Shield. Terdapat juga Parametric Hidden-Type DRL yang mengintegrasikan grille dan lampu secara penuh sehingga tampilan lampu tidak terlihat saat mobil dalam keadaan mati.
                           </li>
+                          <li>New Hyundai PALISADE menawarkan performa berkendara terbaik dengan teknologi terdepan. Mobil ini hadir dengan tipe mesin kendaraan R. 2.2 L CRDI inline 4 cylinder diesel with e-VGT yang didukung dengan 8-speed automatic transmission system untuk mendukung efisiensi bahan bakar yang maksimal serta menghasilkan performa mesin yang optimal. Performa dari New Hyundai PALISADE dapat mencapai tenaga maksimum hingga 200 PS/3,800 rpm dengan torsi maksimum mencapai 440 Nm/1,750-2,750 rpm.</li>
                         </ul>
                       
                     </div>
                     <div class="tab-pane fade" id="features-options" role="tabpanel" aria-labelledby="features-options-tab">
-                      <h6>HYUNDAI CRETA GASOLINE 1.5 MP-i</h6>
+                      <h6>HYUNDAI New PALISADE Diesel 2.2 CRD-i</h6>
                       <table class="table table-bordered">
                         <tbody>
                           <tr>
-                            <th scope="row">TIPE ACTIVE MT</th>
-                            <td>Rp.288.000.000</td>
+                            <th scope="row">TIPE PRIME A/T</th>
+                            <td>Rp.842.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE TREND MT</th>
-                            <td>Rp.309.500.000</td>
+                            <th scope="row">TIPE SIGNATURE A/T</th>
+                            <td>Rp.977.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE TREND IVT</th>
-                            <td>Rp.330.000.000</td>
-                          </tr>
-                          <tr>
-                            <th scope="row">TIPE STYLE IVT</th>
-                            <td>Rp.372.000.000</td>
-                          </tr>
-                          <tr>
-                            <th scope="row">TIPE PRIME IVT 1T</th>
-                            <td>Rp.404.000.000</td>
-                          </tr>
-                          <tr>
-                            <th scope="row">TIPE PRIME IVT 2T</th>
-                            <td>Rp.407.000.000</td>
+                            <th scope="row">TIPE SIGNATURE AWD A/T</th>
+                            <td>Rp.1.110.000.000</td>
                           </tr>
                         </tbody>
                       </table>

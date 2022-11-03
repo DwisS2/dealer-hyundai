@@ -114,15 +114,15 @@
                       <table class="table table-bordered">
                         <tbody>
                           <tr>
-                            <th scope="row">TIPE STYLE</th>
+                            <th scope="row">TIPE STYLE A/T</th>
                             <td>Rp.569.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE PRIME</th>
+                            <th scope="row">TIPE PRIME A/T</th>
                             <td>Rp.599.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE SIGNATURE</th>
+                            <th scope="row">TIPE SIGNATURE A/T</th>
                             <td>Rp.678.000.000</td>
                           </tr>
                         </tbody>
@@ -131,15 +131,15 @@
                       <table class="table table-bordered">
                         <tbody>
                           <tr>
-                            <th scope="row">TIPE STYLE</th>
+                            <th scope="row">TIPE STYLE A/T</th>
                             <td>Rp.629.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE PRIME</th>
+                            <th scope="row">TIPE PRIME A/T</th>
                             <td>Rp.659.000.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE SIGNATURE</th>
+                            <th scope="row">TIPE SIGNATURE A/T</th>
                             <td>Rp.729.000.000</td>
                           </tr>
                         </tbody>

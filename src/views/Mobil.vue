@@ -48,7 +48,7 @@
                        <a href="/mobil/stargazer">Hyundai Stargazer</a>
                        <div class="separator"></div>
                        <div class="price">
-                         <span class="new-price">Rp.243.300.000</span>
+                         <span class="new-price">Mulai dari Rp.243.300.000</span>
                        </div>
                      </div>
                    </div>
@@ -68,7 +68,7 @@
                        <a href="/mobil/creta">Hyundai Creta</a>
                        <div class="separator"></div>
                        <div class="price">
-                         <span class="new-price">Rp.279.000.000</span>
+                         <span class="new-price">Mulai dari Rp.288.000.000</span>
                        </div>
                      </div>
                    </div>
@@ -88,7 +88,7 @@
                        <a href="/mobil/ioniq">Hyundai ioniq 5</a>
                        <div class="separator"></div>
                        <div class="price">
-                         <span class="new-price">Rp.748.000.000</span>
+                         <span class="new-price">Mulai dari Rp.748.000.000</span>
                        </div>
                      </div>
                    </div>
@@ -108,7 +108,7 @@
                        <a href="/mobil/palisade">Hyundai Palisade</a>
                        <div class="separator"></div>
                        <div class="price">
-                         <span class="new-price">Rp.842.000.000</span>
+                         <span class="new-price">Mulai dari Rp.842.000.000</span>
                        </div>
                      </div>
                    </div>
@@ -128,7 +128,7 @@
                        <a href="/mobil/santa">Hyundai SANTA FE</a>
                        <div class="separator"></div>
                        <div class="price">
-                         <span class="new-price">Rp.569.000.000</span>
+                         <span class="new-price">Mulai dari Rp.569.000.000</span>
                        </div>
                      </div>
                    </div>
@@ -148,7 +148,7 @@
                        <a href="/mobil/staria">Hyundai Staria</a>
                        <div class="separator"></div>
                        <div class="price">
-                         <span class="new-price">Rp.896.000.000</span>
+                         <span class="new-price">Mulai dari Rp.896.000.000</span>
                        </div>
                      </div>
                    </div>

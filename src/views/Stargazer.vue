@@ -104,7 +104,8 @@
                       
                     </div>
                     <div class="tab-pane fade" id="features-options" role="tabpanel" aria-labelledby="features-options-tab">
-                      <h6>HYUNDAI STARGAZER GASOLINE 1.5 MP-i</h6>
+                      <h5>HYUNDAI STARGAZER GASOLINE 1.5 MP-i</h5>
+                      <h6>Jakarta</h6>
                       <table class="table table-bordered">
                         <tbody>
                           <tr>
@@ -112,27 +113,57 @@
                             <td>Rp.243.300.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE TREND MT</th>
+                            <th scope="row">TIPE ACTIVE IVT</th>
                             <td>Rp.255.900.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE TREND IVT</th>
+                            <th scope="row">TIPE TREND M/T</th>
                             <td>Rp.263.300.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE STYLE IVT</th>
+                            <th scope="row">TIPE TREND IVT</th>
                             <td>Rp.275.900.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE PRIME IVT 1T</th>
+                            <th scope="row">TIPE STYLE IVT</th>
                             <td>Rp.296.300.000</td>
                           </tr>
                           <tr>
-                            <th scope="row">TIPE PRIME IVT 2T</th>
+                            <th scope="row">TIPE PRIME IVT</th>
                             <td>Rp.307.100.000</td>
                           </tr>
                         </tbody>
                       </table>
+                      <h6>Bodetabek</h6>
+                      <table class="table table-bordered">
+                        <tbody>
+                          <tr>
+                            <th scope="row">TIPE ACTIVE MT</th>
+                            <td>Rp.245.800.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE ACTIVE IVT</th>
+                            <td>Rp.259.400.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE TREND M/T</th>
+                            <td>Rp.266.800.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE TREND IVT</th>
+                            <td>Rp.279.400.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE STYLE IVT</th>
+                            <td>Rp.299.800.000</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">TIPE PRIME IVT</th>
+                            <td>Rp.310.600.000</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      
                     </div>
                   </div>
                 </div>

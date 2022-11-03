@@ -29,7 +29,7 @@
                   <a href="/mobil/stargazer">Hyundai Stargazer</a>
                   <div class="separator"></div>
                   <div class="price">
-                    <span class="new-price">Rp.243.300.000</span>
+                    <span class="new-price">Mulai dari Rp.243.300.000</span>
                   </div>
                 </div>
               </div>
@@ -53,7 +53,7 @@
                   <a href="/mobil/creta">Hyundai CRETA</a>
                   <div class="separator"></div>
                   <div class="price">
-                    <span class="new-price">Rp.279.000.000</span>
+                    <span class="new-price">Mulai dari Rp.288.000.000</span>
                   </div>
                 </div>
               </div>
@@ -77,7 +77,7 @@
                   <a href="/mobil/ioniq">Hyundai ioniq 5</a>
                   <div class="separator"></div>
                   <div class="price">
-                    <span class="new-price">Rp.748.000.000</span>
+                    <span class="new-price">Mulai dari Rp.748.000.000</span>
                   </div>
                 </div>
               </div>
